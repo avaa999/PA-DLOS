@@ -3,7 +3,7 @@
 
 💡 We are working on an learning physics-aware sensorimotor model for shape control of Deformable Linear Objects (DLOs) with unknown physical properties. The paper has been submitted to _IEEE/ASME Transactions on Mechatronics_, and we plan to open-source the code after the paper is accepted.
 
-## 🎥 __The vedio of extensive robotic experiments could be found at [here](https://youtu.be/Mqw8So0pBjs)🔗:__
+## 🎥 __The vedio of extensive robotic experiments could be found at [here](https://youtu.be/jHfk_upUgZQ)🔗:__
 
 [![Watch the video](./cover.png)](https://youtu.be/jHfk_upUgZQ)
 
