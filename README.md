@@ -16,6 +16,7 @@ The code has been tested under
 * **GPU**: NVIDIA GeForce RTX 1080Ti (Driver supports CUDA 12.2)
 * **Python**: 3.9+ 
 * **PyTorch**: 2.2.1 + cu118
+* **robosuite**: 1.4.1
 
 ## Environment Setup
 ### Setup anaconda environment
