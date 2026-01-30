@@ -41,7 +41,7 @@ The combined data vector is a **236-dimension** representation, structured as fo
 * **3**: The bending stiffness. (Placeholder, not used in our algorithm)
 * **4~6**: The position of the fixed point (3).
 
-#### **II. State Input at $t-1$ (7~43)**
+#### **II. State Input (7~43)**
 * **7~36**: The positions of the 10 feature points ($10 \times 3$).
 * **37~43**: The pose of the end-effector.
   * Position (3) + Orientation in quaternion (4).
