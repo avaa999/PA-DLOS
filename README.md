@@ -5,9 +5,14 @@
 
 ## 📢 最新动态 (News)
 
-* **[2026.03]** 🎉 我们的研究论文已被 _IEEE/ASME Transactions on Mechatronics_ 正式录用！
-* **[录用证明]** 为方便CSC评审专家查阅，论文录用通知及首页预览已存放在[proof](./proof) 文件夹中。
-* **[2026.03]** Our paper on DLO shape control has been accepted by _IEEE/ASME Transactions on Mechatronics_.
+* **[2026.03]** 🎉 Our paper on DLO shape control has been accepted by _IEEE/ASME Transactions on Mechatronics_.
+
+## 📢 录用证明 (Acceptance Proof)
+为方便 CSC 专家审核，相关证明材料已整理至 [proof](./proof) 文件夹：
+
+* [1. 官网录用状态查询结果](./proof/官网录取结果.png)
+* [2. TMECH 录用邮件截图](./proof/录用邮件.png)
+* [3. 论文首页预览](./proof/论文首页.png)
 
 ## 🎥 __The vedio of extensive robotic experiments could be found at [here](https://youtu.be/UIX6jxIGCQo)🔗:__
 
