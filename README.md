@@ -3,7 +3,7 @@
 
 💡 We are working on an learning physics-aware sensorimotor model for shape control of Deformable Linear Objects (DLOs) with unknown physical properties. The paper has been submitted to _IEEE/ASME Transactions on Mechatronics_.
 
-## 📢 最新动态 (News)
+## 📢 News
 
 * **[2026.03]** 🎉 Our paper on DLO shape control has been accepted by _IEEE/ASME Transactions on Mechatronics_.
 
