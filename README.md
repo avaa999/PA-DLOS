@@ -15,7 +15,7 @@
 * [1. 官网录用状态查询结果](./proof/官网录取结果.png)
 * [2. TMECH 录用邮件截图](./proof/录用邮件.png)
 * [3. 论文首页预览](./proof/论文首页.png)
-* [4. 论文在线发表预览](./proof/Early Access.png)
+* [4. 论文在线发表预览](./proof/在线发表.png)
 
 ## 🎥 __The vedio of extensive robotic experiments could be found at [here](https://youtu.be/UIX6jxIGCQo)🔗:__
 
