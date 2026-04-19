@@ -24,8 +24,8 @@
 ## Paper abstract
 Abstract—Learning accurate sensorimotor modele between robot motion and shape deformation of Deformable Linear Objects (DLOs) remains challenging, especially for those with unknown physical properties. This letter presents the Physics-Aware Deformable Linear Object Shaping (PA-DLOS) framework, which enables shape control of such DLOs. Specifically, the proposed global neural network-based DLO deformation model, trained in simulation, is conditioned on physics embeddings that are estimated in real time by a visuotactile-based multimodal model. On this basis, precise shape servoing of unseen DLOs can be achieved via a dual-stage online optimization strategy, which modulates the simulation-trained deformation model according to online visual and tactile feedback. Extensive simulations and real-world experiments demonstrate that PADLOS outperforms representative data-driven methods in both DLO deformation modeling and shape control.Trained solely in simulation, our framework achieves a 100% success rate and the highest accuracy in real-world shape servoing tasks.
 
-
-````
+<!--
+``
 ## Requirements
 The code has been tested under
 * **Operating System**: Ubuntu 20.04
@@ -72,5 +72,5 @@ The combined data vector is a **236-dimension** representation, structured as fo
 * **80~87**: Tactile marker displacements of the previous 4 frames ($4 \times 2$).
 * **88~115**: End-effector poses of the previous 4 frames ($4 \times 7$).
 * **116~235**: Feature point positions of the previous 4 frames ($4 \times 30$).
+ -->
 
-``
