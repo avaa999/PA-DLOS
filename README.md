@@ -7,7 +7,7 @@
 ## 📢 News
 
 * **[2026.03]** 🎉 Our paper on DLO shape control has been accepted by _IEEE/ASME Transactions on Mechatronics_.
-* **[2026.04]** 🎉 Our paper is now available as an **Early Access** article in _IEEE/ASME Transactions on Mechatronics_. Check it out here: [https://doi.org/10.1109/TMECH.2026.XXXXXXX](https://ieeexplore.ieee.org/document/11482717).
+* **[2026.04]** 🎉 Our paper is now available as an **Early Access** article in _IEEE/ASME Transactions on Mechatronics_. Check it out here: [https://ieeexplore.ieee.org/document/11482717)](https://ieeexplore.ieee.org/document/11482717).
 
 ## 📢 录用证明 (Acceptance Proof)
 为方便 CSC 专家审核，相关证明材料已整理至 [proof](./proof) 文件夹：
