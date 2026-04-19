@@ -1,8 +1,8 @@
 # PA-DLOS
 ## __Learning Physics-Aware Sensorimotor Model with Visuotactile Sensing for Deformable Linear Objects Manipulation__
 
-💡 We are working on an learning physics-aware sensorimotor model for shape control of Deformable Linear Objects (DLOs) with unknown physical properties. The paper has been submitted to _IEEE/ASME Transactions on Mechatronics_.
-[![Paper](https://ieeexplore.ieee.org/document/11482717-red)](https://ieeexplore.ieee.org/document/11482717)
+💡 We are working on an learning physics-aware sensorimotor model for shape control of Deformable Linear Objects (DLOs) with unknown physical properties. The paper has been published in _IEEE/ASME Transactions on Mechatronics_.
+[[Paper](https://ieeexplore.ieee.org/document/11482717-red)](https://ieeexplore.ieee.org/document/11482717)
 
 ## 📢 News
 
